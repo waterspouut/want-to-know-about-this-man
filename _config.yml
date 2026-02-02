@@ -9,11 +9,11 @@ url:                "https://startbootstrap.github.io"
 twitter_username:   
 github_username:    waterspouut
 facebook_username:  
-instagram_username:  @waterspouut
+instagram_username:  "@waterspouut"
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   GTM-K9LRVK3S # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
